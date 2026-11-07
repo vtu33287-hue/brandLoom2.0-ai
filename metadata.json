@@ -1,0 +1,6 @@
+{
+  "name": "BrandLoom",
+  "description": "AI-powered brand compliance and content verification platform. Verify marketing drafts against approved brand facts, guidelines, freshness rules, voice terminology, and visual identity before publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
